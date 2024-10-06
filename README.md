@@ -6,4 +6,25 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=dex1607&style=flat-square&color=blue" alt=""/>
+  <h1>
+  Hello, World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc1dTZzaWpnNHB2emM2bWpleWY5aHhtNTF4aXFzanpncHBpM3BtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+I am a Mathematics and Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Swansea University.
+- :telescope: Working on securing a 2025 graduate role in the field of 
+Cybersecurity/Software Development.
+
+- :seedling: Exploring Quantum Computing as my dissertaion.
+
+- :zap: In my free time, I solve problems on Codewars and play chess.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dexter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dexter-o-neill-4b5449323/)
